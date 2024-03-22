@@ -1,2 +1,2 @@
-# shoots_ladders
-A fun shoots and ladders game
+# chutes_ladders
+A fun chutes and ladders game
